@@ -1,3 +1,3 @@
-# learnmongodb
+# Topics about MongoDB
 
-### learning how indexes work: [indextest.md](indextest.md)
+* ### learning how indexes work: [indextest.md](indextest.md)
